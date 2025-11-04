@@ -1,0 +1,1 @@
+Smart status player
